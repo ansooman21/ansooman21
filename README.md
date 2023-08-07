@@ -1,11 +1,5 @@
 <h1> Ansooman Senapaty</h1>
 <br /> 
-
-                    
-`**Digital Craftsman (Developer / Programmer)**`
-
-                    
-
 <p align="left">I am skilled in creating mobile applications specifically designed to run on Android devices. My primary programming languages is dart, which are widely used in Android app development and my framework is Flutter I have a strong understanding of the Android platform, including its architecture, components, and APIs.</p>
 <p align="left"> 
   <a href="https://github.com/ansooman21?tab=repositories&sort=stargazers#gh-light-mode-only">
