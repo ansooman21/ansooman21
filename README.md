@@ -22,7 +22,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="700px"  src="https://skillicons.dev/icons?i=flutter,dart,go,html,css,mysql,c,c++,firebase,git,java,python"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=flutter,dart,go,html,css,mysql,c,firebase,git,java,python"  />
 </p>
 <br />
 
