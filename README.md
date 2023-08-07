@@ -21,7 +21,7 @@
                     
 
 <h2>Languages and Tools</h2> 
-<p align="left">
+<p align="center">
 <img width="250px" height="250px"  src="https://skillicons.dev/icons?i=flutter,dart,go,html,css,mysql,c,c++,firebase,git,java,python.&perline=9"  />
 </p>
 <br />
