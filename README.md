@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=ansooman21&theme=transparent&hide_border=true" alt="ansooman21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansooman21&" alt="ansooman21" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ansooman21&theme=transparent&hide_border=true" alt="ansooman21" /></p>
