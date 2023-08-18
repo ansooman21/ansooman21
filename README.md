@@ -35,8 +35,8 @@
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/ansooman21#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=ansooman21&theme=tokyonight" alt="ansooman21" /></a>
-<a href="https://github.com/ansooman21#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=ansooman21&theme=tokyonight" /></a>
+<p>&nbsp;<a href="https://github.com/ansooman21#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ansooman21&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="ansooman21" /></a>
+<a href="https://github.com/ansooman21#gh-light-mode-only" target="_blank"><img align="center" src="hhttps://github-readme-stats.vercel.app/api?username=ansooman21&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="ansooman21" /></a>
 </p> 
 <br>
 <br />
